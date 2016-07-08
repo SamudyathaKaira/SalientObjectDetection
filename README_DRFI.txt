@@ -17,5 +17,6 @@ para.num_segmentation = 15; % This could be adjusted
 -----------------------------------------
 
 Changes were done to demo to resize the image before using it. 
-1. eval_demo.m has the experiments performed for this project 
+1. eval_demo.m has the experiments performed for this project. 
+This file can be placed in the authors project and run instead of demo.m
 2. Plots.py was used to generate the plots from the raw probability weights data  
